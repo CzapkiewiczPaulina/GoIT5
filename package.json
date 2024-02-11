@@ -1,0 +1,15 @@
+{
+  "name": "aqa_e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "moj:super:skrypt:GoIT5": "cypress run --headless --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
